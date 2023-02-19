@@ -1,6 +1,6 @@
 # Sports Tracker Export
 
-Thanks to [Chelsie Town](https://morioh.com/p/ba8808b91fd5).
+Thanks to [Chelsie Town](https://morioh.com/p/ba8808b91fd5), I was able to use this export Sports Tracker workouts for import into Strava.
 
 Almost all sport tracking sites do not have “Export all” functionality. They want you to stay with them as long as possible. The same with Sports Tracker. There is no such functionality on their website, you can export workouts only one by one (which is annoying).
 
